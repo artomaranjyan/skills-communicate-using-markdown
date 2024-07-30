@@ -9,3 +9,8 @@
 
 
 ![Image of Yaktocat](https://healthcare.utah.edu/sites/g/files/zrelqx136/files/media/images/2023/GettyImages-182892188-frisbee.jpg)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
